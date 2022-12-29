@@ -99,7 +99,7 @@ h2 {
 }
 
 h2::after {
-  content: url("images/line.png");
+  content: url("https://github.com/ryo19861210/ryo19861210/blob/main/line.png?raw=true");
   margin-left: 10px;
 }
 
@@ -478,7 +478,7 @@ h3 {
     #mission-main {
       height: 496px;
       width: 100%;
-      background-image: url("images/mission/mission-main.png");
+      background-image: url("https://github.com/ryo19861210/ryo19861210/blob/main/mission-main.png?raw=true");
       background-repeat: no-repeat;
       background-position-y: center;
     }
@@ -574,7 +574,7 @@ h3 {
     #product-main {
       height: 496px;
       width: 100%;
-      background-image: url("images/product/product-main.png");
+      background-image: url("https://github.com/ryo19861210/ryo19861210/blob/main/product-main.png?raw=true");
       background-repeat: no-repeat;
       background-position-y: center;
     }
@@ -738,7 +738,7 @@ h3 {
       margin: 0 20px 0 20px;
       height: 44px;
       font-size: 16px;
-      background-image: url("images/arrow.png");
+      background-image: url("https://github.com/ryo19861210/ryo19861210/blob/main/arrow.png?raw=true");
       background-repeat: no-repeat;
       background-position: right top;
     }
@@ -792,7 +792,7 @@ h3 {
     }
 
     h2::after {
-      content: url("images/line.png");
+      content: url("https://github.com/ryo19861210/ryo19861210/blob/main/line.png?raw=true");
       margin-left: 10px;
     }
 
@@ -1078,7 +1078,7 @@ h3 {
       text-decoration: none;
       margin: 0 20px 30px 0;
       display: block;
-      background-image: url("images/arrow.png");
+      background-image: url("https://github.com/ryo19861210/ryo19861210/blob/main/arrow.png?raw=true");
       background-repeat: no-repeat;
       background-position: right top;
     }
@@ -1119,7 +1119,7 @@ h3 {
     #mission-main {
       height: 256px;
       width: 100%;
-      background-image: url("images/mission/mission-main.png");
+      background-image: url("https://github.com/ryo19861210/ryo19861210/blob/main/mission-main.png?raw=true");
       background-repeat: no-repeat;
       background-position-y: center;
       background-size: auto 208px;
@@ -1213,7 +1213,7 @@ h3 {
     #product-main {
       height: 256px;
       width: 100%;
-      background-image: url("images/product/product-main.png");
+      background-image: url("https://github.com/ryo19861210/ryo19861210/blob/main/product-main.png?raw=true");
       background-repeat: no-repeat;
       background-position-y: center;
       background-size: auto 208px;
